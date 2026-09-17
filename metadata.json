@@ -1,0 +1,8 @@
+{
+  "name": "Güneş, Dünya ve Ay Simülasyonu",
+  "description": "5. Sınıf öğrencileri için Güneş'in yapısı, Ay'ın evreleri ve gök cisimlerinin hareketlerini kapsayan etkileşimli fen bilimleri simülasyonu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
